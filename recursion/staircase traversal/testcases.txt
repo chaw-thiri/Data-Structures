@@ -1,0 +1,65 @@
+Test Case 1
+{
+  "height": 4,
+  "maxSteps": 2
+}
+Test Case 2
+{
+  "height": 10,
+  "maxSteps": 1
+}
+Test Case 3
+{
+  "height": 10,
+  "maxSteps": 2
+}
+Test Case 4
+{
+  "height": 4,
+  "maxSteps": 3
+}
+Test Case 5
+{
+  "height": 1,
+  "maxSteps": 1
+}
+Test Case 6
+{
+  "height": 5,
+  "maxSteps": 2
+}
+Test Case 7
+{
+  "height": 4,
+  "maxSteps": 4
+}
+Test Case 8
+{
+  "height": 6,
+  "maxSteps": 2
+}
+Test Case 9
+{
+  "height": 100,
+  "maxSteps": 1
+}
+Test Case 10
+{
+  "height": 15,
+  "maxSteps": 5
+}
+Test Case 11
+{
+  "height": 7,
+  "maxSteps": 2
+}
+Test Case 12
+{
+  "height": 6,
+  "maxSteps": 3
+}
+Test Case 13
+{
+  "height": 3,
+  "maxSteps": 2
+}

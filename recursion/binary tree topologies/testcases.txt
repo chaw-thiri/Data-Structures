@@ -1,0 +1,48 @@
+Test Case 1
+{
+  "n": 3
+}
+Test Case 2
+{
+  "n": 0
+}
+Test Case 3
+{
+  "n": 1
+}
+Test Case 4
+{
+  "n": 2
+}
+Test Case 5
+{
+  "n": 4
+}
+Test Case 6
+{
+  "n": 5
+}
+Test Case 7
+{
+  "n": 6
+}
+Test Case 8
+{
+  "n": 7
+}
+Test Case 9
+{
+  "n": 8
+}
+Test Case 10
+{
+  "n": 9
+}
+Test Case 11
+{
+  "n": 10
+}
+Test Case 12
+{
+  "n": 11
+}

@@ -1,0 +1,24 @@
+Test Case 1
+{
+  "numberOfTags": 3
+}
+Test Case 2
+{
+  "numberOfTags": 2
+}
+Test Case 3
+{
+  "numberOfTags": 1
+}
+Test Case 4
+{
+  "numberOfTags": 4
+}
+Test Case 5
+{
+  "numberOfTags": 5
+}
+Test Case 6
+{
+  "numberOfTags": 6
+}

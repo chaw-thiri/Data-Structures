@@ -7,3 +7,5 @@ def insertionSort(array):
     return array
 def swap (i, j , array):
     array[i], array[j] = array[j], array[i]
+array = [7,8,4,3,7,32,4543,5754,453]
+print(insertionSort(array))

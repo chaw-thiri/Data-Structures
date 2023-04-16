@@ -1,3 +1,4 @@
+#default sorting use tim sort = insertion + merge sort
 def insertionSort(array):
     for i in range(1,len(array)):
         j = i

@@ -1,0 +1,2 @@
+just find the difference between the target and the current node and use recursion
+** dun forget the main function does not do recursion

@@ -83,13 +83,15 @@ class binary_search_tree:
     def delete_value(self, value):
         return self.delete_node(self.find(value))
     def delete_node(self,node):
-        def no_of_child(curr_node):
+        
+        def no_of_child(self,   curr_node):
             n = 0
             if curr_node.left_child != None:
                 n += 1
             elif curr_node.right_child != None:
                 n += 1
             return n 
+        
         
         def min_node_value(self,cur_node):
             current = cur_node

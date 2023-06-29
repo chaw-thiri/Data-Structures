@@ -1,4 +1,4 @@
-# time O(n)
+# time O(n) or O(k) 
 # space O(k)
 class BST:
     def __init__(self, value, left=None, right=None):
@@ -19,15 +19,15 @@ def findKthLargestValueInBst(tree, k):
 def reverseOrderTraverse(tree, array, k, count):
     if len(array) <=k:
         if tree is not None:
-            print("addition by right")
+            #print("addition by right")
             reverseOrderTraverse(tree.right, array, k, count)
-            print(array)
-            print("appending")
+            #print(array)
+            #print("appending")
             array.append(tree.value)
-            print(array)
-            print("left")
+            #print(array)
+            #print("left")
             reverseOrderTraverse(tree.left, array, k, count)
-            print(array)
+            #print(array)
     else:
         return
 

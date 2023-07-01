@@ -1,0 +1,502 @@
+Test Case 1
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 2
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 3
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [200],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 4
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [200],
+      "method": "insert"
+    },
+    {
+      "arguments": [6],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [13],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 5
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [200],
+      "method": "insert"
+    },
+    {
+      "arguments": [6],
+      "method": "insert"
+    },
+    {
+      "arguments": [13],
+      "method": "insert"
+    },
+    {
+      "arguments": [14],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [50],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 6
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [200],
+      "method": "insert"
+    },
+    {
+      "arguments": [6],
+      "method": "insert"
+    },
+    {
+      "arguments": [13],
+      "method": "insert"
+    },
+    {
+      "arguments": [14],
+      "method": "insert"
+    },
+    {
+      "arguments": [50],
+      "method": "insert"
+    },
+    {
+      "arguments": [51],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [52],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 7
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [200],
+      "method": "insert"
+    },
+    {
+      "arguments": [6],
+      "method": "insert"
+    },
+    {
+      "arguments": [13],
+      "method": "insert"
+    },
+    {
+      "arguments": [14],
+      "method": "insert"
+    },
+    {
+      "arguments": [50],
+      "method": "insert"
+    },
+    {
+      "arguments": [51],
+      "method": "insert"
+    },
+    {
+      "arguments": [52],
+      "method": "insert"
+    },
+    {
+      "arguments": [1000],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [10000],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 8
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [200],
+      "method": "insert"
+    },
+    {
+      "arguments": [6],
+      "method": "insert"
+    },
+    {
+      "arguments": [13],
+      "method": "insert"
+    },
+    {
+      "arguments": [14],
+      "method": "insert"
+    },
+    {
+      "arguments": [50],
+      "method": "insert"
+    },
+    {
+      "arguments": [51],
+      "method": "insert"
+    },
+    {
+      "arguments": [52],
+      "method": "insert"
+    },
+    {
+      "arguments": [1000],
+      "method": "insert"
+    },
+    {
+      "arguments": [10000],
+      "method": "insert"
+    },
+    {
+      "arguments": [10001],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [10002],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 9
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [200],
+      "method": "insert"
+    },
+    {
+      "arguments": [6],
+      "method": "insert"
+    },
+    {
+      "arguments": [13],
+      "method": "insert"
+    },
+    {
+      "arguments": [14],
+      "method": "insert"
+    },
+    {
+      "arguments": [50],
+      "method": "insert"
+    },
+    {
+      "arguments": [51],
+      "method": "insert"
+    },
+    {
+      "arguments": [52],
+      "method": "insert"
+    },
+    {
+      "arguments": [1000],
+      "method": "insert"
+    },
+    {
+      "arguments": [10000],
+      "method": "insert"
+    },
+    {
+      "arguments": [10001],
+      "method": "insert"
+    },
+    {
+      "arguments": [10002],
+      "method": "insert"
+    },
+    {
+      "arguments": [10003],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [10004],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}
+Test Case 10
+{
+  "classMethodsToCall": [
+    {
+      "arguments": [5],
+      "method": "insert"
+    },
+    {
+      "arguments": [10],
+      "method": "insert"
+    },
+    {
+      "arguments": [100],
+      "method": "insert"
+    },
+    {
+      "arguments": [200],
+      "method": "insert"
+    },
+    {
+      "arguments": [6],
+      "method": "insert"
+    },
+    {
+      "arguments": [13],
+      "method": "insert"
+    },
+    {
+      "arguments": [14],
+      "method": "insert"
+    },
+    {
+      "arguments": [50],
+      "method": "insert"
+    },
+    {
+      "arguments": [51],
+      "method": "insert"
+    },
+    {
+      "arguments": [52],
+      "method": "insert"
+    },
+    {
+      "arguments": [1000],
+      "method": "insert"
+    },
+    {
+      "arguments": [10000],
+      "method": "insert"
+    },
+    {
+      "arguments": [10001],
+      "method": "insert"
+    },
+    {
+      "arguments": [10002],
+      "method": "insert"
+    },
+    {
+      "arguments": [10003],
+      "method": "insert"
+    },
+    {
+      "arguments": [10004],
+      "method": "insert"
+    },
+    {
+      "arguments": [75],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    },
+    {
+      "arguments": [80],
+      "method": "insert"
+    },
+    {
+      "arguments": [],
+      "method": "getMedian"
+    }
+  ]
+}

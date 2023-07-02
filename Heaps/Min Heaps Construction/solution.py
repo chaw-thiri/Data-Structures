@@ -1,4 +1,5 @@
 # don't touch the values , just play with indice
+# check sort k-sorted array for better code explanation
 class MinHeap:
     def __init__(self, array):
         self.heap = self.buildHeap(array)

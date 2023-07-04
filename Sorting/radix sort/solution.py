@@ -1,5 +1,7 @@
 # O(d*(n+b)) time
 # O(n+b)space : n = length of the input array
+# d = max num of digit
+# b = base of the numbering system
 def radixSort(array):
     if len(array) == 0:
         return array
@@ -30,4 +32,3 @@ def countingSort(array,digit):
 
     for idx in range(len(array)):
         array[idx]=sortedArray[idx]
-        

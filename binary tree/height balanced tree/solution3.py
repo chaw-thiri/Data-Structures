@@ -11,7 +11,7 @@ class BinaryTree:
 
 def heightBalancedBinaryTree(tree):
     if tree is None:
-        return False 
+        return True 
     return heightBalancedBinaryTreeHelper(tree)
         
 def heightBalancedBinaryTreeHelper(tree):

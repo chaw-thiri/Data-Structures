@@ -1,5 +1,5 @@
 # time = O(n)
-# space = O(n) , n = number of nodes in the tree
+# space = O(h) , n = number of nodes in the tree, h = height of the tree
 class BinaryTree:
     def __init__(self, value, left=None, right=None):
         self.value = value

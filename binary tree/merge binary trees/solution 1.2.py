@@ -1,5 +1,8 @@
 # space = O(h), where h = height of the shorter
 # time = O(n), n = no of nodes in the shorter tree
+# short tree cuz the recursion will stop once one of the tree hits the none value
+# and the rest will just return the longer tree 
+# to eliminate unnecessary recursions
 class BinaryTree:
     def __init__(self, value, left=None, right=None):
         self.value = value

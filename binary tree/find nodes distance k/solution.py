@@ -9,7 +9,10 @@ class BinaryTree:
 def findNodesDistanceK(tree, target, k):
     nodesDistanceK =[]
     
-def findDistanceFromNodeToTarget(tree,target, k, nodesDistanceK):
+    findDistanceFromNodeToTarget(tree,target,k,nodesDistanceK)
+    return nodesDistanceK
+    
+def findDistanceFromNodeToTarget(node,target, k, nodesDistanceK):
     if node is None:
         return -1
 
@@ -24,10 +27,10 @@ def findDistanceFromNodeToTarget(tree,target, k, nodesDistanceK):
         nodesDistanceK.append(node.value)
         
     if leftDistance != -1:
-        addSubtreeNodesAtDistanceK(node.right, leftDistance+1, nodesDistanceK)
+        addSubtreeNodesAtDistanceK(node.right, leftDistance+1,k, nodesDistanceK)
         return leftDistance +1 
     if rightDistance != -1:
-        addSubtreeNodesAtDistanceK(node.left, distance, k, nodesDistanceK)
+        addSubtreeNodesAtDistanceK(node.left, rightDistance+1, k, nodesDistanceK)
         return rightDistance+1
     return -1
 def addSubtreeNodesAtDistanceK(node,distance,k,nodesDistanceK):

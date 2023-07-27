@@ -1,5 +1,6 @@
 # time = O(n)
 # space = O(n)
+# find the value from the root
 class BinaryTree:
     def __init__(self, value, left=None, right=None):
         self.value = value

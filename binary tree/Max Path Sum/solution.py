@@ -1,4 +1,4 @@
-
+# T = O(n) , S = O(log n)
 def maxPathSum(tree):
     _, maxSum = findMaxSum(tree)
     return maxSum

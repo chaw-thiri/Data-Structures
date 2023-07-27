@@ -13,6 +13,7 @@ def removeDuplicatesFromLinkedList(linkedList): # linked list = head node
         while (nextDiffNode != None  and currentNode.value == nextDiffNode.value): # skip all the duplicate values
             nextDiffNode = nextDiffNode.next
         currentNode.next = nextDiffNode
+        
         # move the pointer
         currentNode = nextDiffNode
     return linkedList # return the object
